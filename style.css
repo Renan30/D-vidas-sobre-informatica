@@ -1,0 +1,39 @@
+iframe {
+ border: solid;
+ border-radius: 50px 50px 50px 50px;
+} 
+body {
+ background-color: lightblue;
+}
+h1 {
+ color: black;
+ border: solid blue;
+ border-radius: 20px 20px;
+}
+img {
+ border: solid red;
+ border-radius: 50px 50px 50px 50px;
+ position: relative;
+}
+p {color: black;}
+h6 {
+ color: black;
+}
+details{
+position: center;
+background-color: blue;
+border: solid blue;
+border-radius: 20px 20px;
+color: white;
+}
+button{
+ background-color: red;
+ border: solid red;
+ border-radius: 50px 50px;
+ color: white;
+ position: center;
+}
+input{
+border: solid black;
+border-radius: 50px 50px;
+}
