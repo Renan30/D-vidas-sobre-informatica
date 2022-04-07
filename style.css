@@ -1,6 +1,6 @@
 iframe {
  border: solid;
- border-radius: 50px 50px 50px 50px;
+ border-radius: 10px 10px 10px 10px;
 } 
 body {
  background-color: lightblue;
@@ -12,10 +12,12 @@ h1 {
 }
 img {
  border: solid red;
- border-radius: 50px 50px 50px 50px;
+ border-radius: 20px 20px 20px 20px;
  position: relative;
 }
-p {color: black;}
+p {
+color: black;
+}
 h6 {
  color: black;
 }
